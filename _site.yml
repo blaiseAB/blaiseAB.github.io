@@ -4,5 +4,13 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "dataDict"
+      href: dataDict.html
+    - text: "derivedVar"
+      href: derivedVar.html
+    - text: "_101"
+      href: _101.html
+    - text: "_201"
+      href: _201.html
+    - text: "_301"
+      href: _301.html
