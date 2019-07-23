@@ -8,9 +8,9 @@ navbar:
       href: dataDict.html
     - text: "derivedVar"
       href: derivedVar.html
-    - text: "_101"
-      href: _101.html
-    - text: "_201"
-      href: _201.html
-    - text: "_301"
-      href: _301.html
+    - text: "visit-101"
+      href: visit-101.html
+    - text: "visit-201"
+      href: visit-201.html
+    - text: "visit-301"
+      href: visit-301.html
